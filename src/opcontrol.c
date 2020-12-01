@@ -5,7 +5,7 @@
 
 void operatorControl() {
 	while (1) {
-		printf("Hello mr wright\n");
+		printf("Hello benji \n");
 		delay(20);
 	}
 }
